@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning how to get good
 
 <a href="https://github.com/kieran-lawrence">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kieran-lawrence&theme=solarized-light&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kieran-lawrence&theme=holi&hide_rank=true" />
 </a>
 <a href="https://github.com/kieran-lawrence">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kieran-lawrence&layout=compact&langs_count=8&card_width=320&theme=solarized-light" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kieran-lawrence&layout=compact&langs_count=8&card_width=320&theme=holi" />
 </a>
