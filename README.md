@@ -3,6 +3,9 @@
 - 🍙 I mostly work in Typescript, but occassionally delve into some Java, C# and Swift depending on what i'm working on 
 - 🌱 I’m currently learning how to get good
 
-[![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieran-lawrence&show_icons=true&layout=compact&theme=dark)](https://github.com/kieran-lawrence)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kieran-lawrence&layout=compact&theme=dark)](https://github.com/kieran-lawrence)
+<a href="https://github.com/kieran-lawrence">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kieran-lawrence&theme=solarized-light&hide_rank=true" />
+</a>
+<a href="https://github.com/kieran-lawrence">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kieran-lawrence&layout=compact&langs_count=8&card_width=320&theme=solarized-light" />
+</a>
