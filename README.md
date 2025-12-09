@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Kieran
-- 👀 I like to code 
-- 🍙 I mostly work in Typescript on the web, but also enjoy React Native including Swift & Kotlin 
+### 👋 Hi, I’m Kieran
+  
+- 🚀 I like to code, like a lot
+- 🍙 I enjoy working on web and mobile apps, and I also delve into modding and contribute to open source where I can.  
 - 🌱 I’m currently learning how to get good
 
 <a href="https://github.com/kieran-lawrence">
